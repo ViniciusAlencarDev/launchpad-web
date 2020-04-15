@@ -4,7 +4,7 @@ let audio;
 
 window.onload = () => {
     const container = document.querySelector('#container');
-    audio = document.querySelector('#audio');
+    // audio = document.querySelector('#audio');
     //console.log(audio)
     let result = "";
     for(let i = 0; i < y; i++) {
