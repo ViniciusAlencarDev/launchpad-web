@@ -1,5 +1,5 @@
 const x = 9;
-const y = 7;
+const y = 6;
 let audio;
 
 window.onload = () => {
